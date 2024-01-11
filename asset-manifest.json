@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.004ece58.css",
+    "main.js": "/static/js/main.0473e3a8.js",
+    "static/js/787.9e9f4ffd.chunk.js": "/static/js/787.9e9f4ffd.chunk.js",
+    "static/media/Gotham-Medium.otf": "/static/media/Gotham-Medium.a52599fa8cce74bab773.otf",
+    "static/media/Baron.otf": "/static/media/Baron.6b20c7e080f6aa42a9eb.otf",
+    "index.html": "/index.html",
+    "main.004ece58.css.map": "/static/css/main.004ece58.css.map",
+    "main.0473e3a8.js.map": "/static/js/main.0473e3a8.js.map",
+    "787.9e9f4ffd.chunk.js.map": "/static/js/787.9e9f4ffd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.004ece58.css",
+    "static/js/main.0473e3a8.js"
+  ]
+}
